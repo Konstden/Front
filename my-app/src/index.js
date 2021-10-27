@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 function MyComponent(props) {
-  return <h1>Привет, {props.name}</h1>;
+  return <h1>Привет, {props.name}</h1>;  
 }
 
 function AppNew(props) {
